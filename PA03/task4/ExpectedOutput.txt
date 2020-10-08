@@ -1,0 +1,27 @@
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+1
+Enter your desired username:
+A
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
+1
+Enter your desired username:
+B
+
+Welcome to SocialSite!
+
+What would you like to do?
+1. Sign Up
+2. Login
+8. Exit
